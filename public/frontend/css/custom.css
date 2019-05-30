@@ -1,0 +1,27 @@
+.productinfo img {
+    width: 60%;
+}
+
+b, strong {
+    font-weight: normal;
+    color: red;
+}
+
+.category_error{
+
+    color: red;
+    text-align: center;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+#errorname,#erroremail, #errorsub, #errormsg,#errorphone,#erroraddress, #errorpayments{
+
+    color: #ff4b23;
+}
+
+.hidden{
+
+    display: none;
+}
+
